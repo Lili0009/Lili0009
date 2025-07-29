@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m @Lili0009
 
-<!--
-**Lili0009/Lili0009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m a fresh graduate with a **Bachelor of Science in Information Technology**
+- 👀 I’m passionate about **Web Development** and **Front-End Development**
+- 🛠️ Tech enthusiast with a strong interest in building interactive user experiences
+- 🌱 Currently self-learning **WordPress** to expand my web development skills
+- ⚡ Quick to adapt to new tools, programming languages, and team environments 
+- 💼 Open to work opportunities — actively looking for a role in tech 
+- 📫 How to reach me: [liancjaspeo@gmail.com](mailto:liancjaspeo@gmail.com)
 
-Here are some ideas to get you started:
+## 🎉 Fun Facts About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 I enjoy bringing beautiful designs to life — turning mockups into responsive, interactive websites is my favorite part of the process!
+- 💬 I’m always open to learn new tech and collaborate on interesting projects!
